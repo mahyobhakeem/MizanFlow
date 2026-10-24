@@ -1,0 +1,64 @@
+# ==============================================================================
+# Environment & Secrets
+# ==============================================================================
+.env
+.env.backup
+.env.production
+.env.*.local
+/auth.json
+/storage/*.key
+
+# ==============================================================================
+# Dependencies
+# ==============================================================================
+/vendor
+/node_modules
+
+# ==============================================================================
+# Build & Compiled Assets
+# ==============================================================================
+/public/build
+/public/hot
+/public/storage
+/public/fonts-manifest.dev.json
+
+# ==============================================================================
+# Application & Cache Logs
+# ==============================================================================
+*.log
+/storage/logs/*.log
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/pail
+.phpunit.result.cache
+/.phpunit.cache
+
+# ==============================================================================
+# IDEs & System Files
+# ==============================================================================
+.DS_Store
+Thumbs.db
+/.idea
+/.vscode
+/.cursor/
+/.codex
+/.nova
+/.zed
+.phpactor.json
+_ide_helper.php
+Homestead.json
+Homestead.yaml
+
+# ==============================================================================
+# Internal Tooling & Automation Profiles
+# ==============================================================================
+.chrome_*
+.agents/
+AGENTS.md
+AGENTS.md.bak
+*.bak
+*.tmp
+scratch/
+/docs/reviews/
+/phpunit.mysql.xml
