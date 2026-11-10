@@ -11,7 +11,7 @@
 
 **MizanFlow** is a production-grade commercial inventory, procurement, and point-of-sale management system engineered for single-enterprise commercial businesses operating across multiple regional warehouses and multi-tiered operational roles.
 
-Built with a standard **Laravel 13** backend, **MySQL 8.4 LTS**, **Bootstrap 5 RTL**, and **Readex Pro & Plus Jakarta Sans typography**, MizanFlow delivers real-time stock ledger synchronization, strict concurrency protection, and tamper-resistant financial calculations.
+Built with a standard **Laravel 13** backend,**MySQL 8.4 LTS**, **Bootstrap 5 RTL**, and **Readex Pro & Plus Jakarta Sans typography**, MizanFlow delivers real-time stock ledger synchronization, strict concurrency protection, and tamper-resistant financial calculations.
 
 ---
 
